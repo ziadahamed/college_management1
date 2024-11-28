@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/College_management1/static/css/main.f3a28b7a.css",
+    "main.js": "/College_management1/static/js/main.6a815bab.js",
+    "static/js/453.42175fc6.chunk.js": "/College_management1/static/js/453.42175fc6.chunk.js",
+    "index.html": "/College_management1/index.html",
+    "main.f3a28b7a.css.map": "/College_management1/static/css/main.f3a28b7a.css.map",
+    "main.6a815bab.js.map": "/College_management1/static/js/main.6a815bab.js.map",
+    "453.42175fc6.chunk.js.map": "/College_management1/static/js/453.42175fc6.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f3a28b7a.css",
+    "static/js/main.6a815bab.js"
+  ]
+}
